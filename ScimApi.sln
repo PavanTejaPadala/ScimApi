@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScimApi", "ScimApi.csproj", "{31E263EC-53B8-4BCD-8BBC-D3D4AA6B0298}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{31E263EC-53B8-4BCD-8BBC-D3D4AA6B0298}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31E263EC-53B8-4BCD-8BBC-D3D4AA6B0298}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31E263EC-53B8-4BCD-8BBC-D3D4AA6B0298}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31E263EC-53B8-4BCD-8BBC-D3D4AA6B0298}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EE341BB6-D624-410A-B592-B433B90C7325}
+	EndGlobalSection
+EndGlobal

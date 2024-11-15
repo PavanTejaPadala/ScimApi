@@ -1,0 +1,6 @@
+@ScimApi_HostAddress = http://localhost:5137
+
+GET {{ScimApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

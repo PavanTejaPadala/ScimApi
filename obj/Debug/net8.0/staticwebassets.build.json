@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "MNlxJr4mzbnURzRJiynVJXSD0voTxK5P68kDp5AWvTA=",
+  "Source": "ScimApi",
+  "BasePath": "_content/ScimApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
